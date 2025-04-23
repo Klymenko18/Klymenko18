@@ -38,9 +38,9 @@ Open to Python developer roles where I can grow professionally, contribute to re
 ---
 
 📫 **Let's connect**
+
 📧 klumenko2007maks@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maksym-klymenko-32795b273/) 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat)](https://t.me/og_klym)  
-
