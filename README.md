@@ -1,5 +1,5 @@
 ### Hi, I'm Maksym 👋  
-**Junior Python Backend Developer**
+**Junior Python Developer**
 
 🔹 Passionate about building clean and functional web applications  
 🔹 Focused on Python, Django, DRF, PostgreSQL, Docker, and AWS  
