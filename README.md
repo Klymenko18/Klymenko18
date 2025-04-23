@@ -1,9 +1,12 @@
 ### Hi, I'm Maksym 👋  
 **Junior Python Developer**
+## 👨‍💻 About Me
 
-🔹 Passionate about building clean and functional web applications  
-🔹 Focused on Python, Django, DRF, PostgreSQL, Docker, and AWS  
-🔹 Always learning and open to new technologies  
+Python Developer with 5 months of commercial experience.  
+Passionate about using modern technologies and always looking for the best tools and approaches.  
+I enjoy working in a team, sharing ideas, and learning from others.  
+I take ownership of my tasks and always aim for clear and respectful communication.  
+Open to Python developer roles where I can grow professionally, contribute to real-world projects, and be part of a motivated team.
 
 ---
 
