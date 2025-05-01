@@ -1,5 +1,5 @@
 # Hi, I'm Maksym 👋  
-**Junior Python Backend Developer**
+**Junior Python Developer**
 
 Python Developer with 5 months of commercial experience.  
 Passionate about using modern technologies and always looking for the best tools and approaches.  
