@@ -1,7 +1,7 @@
 # Hi, I'm Maksym 👋  
 **Junior Python Developer**
 
-Python Developer with 5 months of commercial experience.  
+Python Developer with 6 months of commercial experience.  
 Passionate about using modern technologies and always looking for the best tools and approaches.  
 I enjoy working in a team, sharing ideas, and learning from others.  
 I take ownership of my tasks and always aim for clear and respectful communication.  
