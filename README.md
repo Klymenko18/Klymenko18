@@ -1,11 +1,7 @@
 # Hi, I'm Maksym 👋  
 **Junior Python Developer**
 
-Python Developer with 7 months of commercial experience.  
-Passionate about using modern technologies and always looking for the best tools and approaches.  
-I enjoy working in a team, sharing ideas, and learning from others.  
-I take ownership of my tasks and always aim for clear and respectful communication.  
-Open to Python developer roles where I can grow professionally.
+Motivated Junior Python Developer with nearly 1 year of commercial experience. Skilled in Python, Django, DRF, SQL (PostgreSQL, MySQL), AI-tools, and Git. Hands-on experience with clients and production releases. Open to remote opportunities in Ukraine and Europe. English — B2.
 
 ---
 
